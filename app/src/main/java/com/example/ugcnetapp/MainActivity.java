@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         switch (menuItem.getItemId()){
             case R.id.pdf:
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse("https://ugcnet.nta.nic.in/information-bulletin/"));
+                intent.setData(Uri.parse("https://ugcnet.nta.ac.in/index.php"));
                 startActivity(intent);
                 break;
             case R.id.syb:
