@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944729703200",
+    "project_id": "ugcnetapp-cb55f",
+    "storage_bucket": "ugcnetapp-cb55f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944729703200:android:05e68ce35f1cd886714d45",
+        "android_client_info": {
+          "package_name": "com.example.ugcnetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944729703200-8qrdabpi626pn8tcvol0j67jhuah9aqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3uIKvyzTcKM6ObzcCKzMRHESp-__Wbwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944729703200-8qrdabpi626pn8tcvol0j67jhuah9aqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

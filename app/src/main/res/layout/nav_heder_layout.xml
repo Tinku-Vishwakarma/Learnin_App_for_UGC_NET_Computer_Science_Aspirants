@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    android:padding="14dp"
+    android:background="#9C27B0"
+    android:gravity="bottom">
+
+    <ImageView
+        android:layout_width="169dp"
+        android:layout_height="142dp"
+        android:src="@drawable/loga" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UGC NET Learning App"
+        android:textSize="24sp"
+        android:textColor="#fff"
+        android:textStyle="bold"/>
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="info@ugcnetcs.com"-->
+<!--        android:textSize="24sp"-->
+<!--        android:textColor="#fff"-->
+<!--        android:textStyle="bold"/>-->
+</LinearLayout>
